@@ -1,8 +1,9 @@
 <img src="https://github.com/Carlosarturo28/Appalette/blob/master/res/hero.png" width="100%">
 
 # Appalette
-A Sketch plugin that let you find the color palette of (almost) any App.
+A Sketch plugin that let you find the color palette of _(almost)_ any App.
 
+<img src="https://github.com/Carlosarturo28/Appalette/blob/master/res/action.gif" width="100%">
 
 ## Install
 
@@ -11,20 +12,20 @@ A Sketch plugin that let you find the color palette of (almost) any App.
 
 ## Usage
 
-Bring up the Appalette Window either from the *Plugin menu* or via *keyboard shortcut*. Once opened, just select the App you want and *rock it ⚡️*. The plugin will create a group with the palette.
+Bring up the Appalette Window either from the *Plugin menu* or via *keyboard shortcut*. Once opened, just select the App you want and press `rock it ⚡️`. The plugin will create a group with the palette.
 
 ## Shortcut
 
 You can quickly access the Appalette window by using the keyword shortcut <kbd>Ctrl</kbd> + <kbd>Cmd</kbd> + <kbd>C</kbd>.
 
-##Changelog
+## Changelog
 
 | Version | Notes |
 | --- | --- |
-| **v1.0** |  The hello world :). |
+| **v1.0** |  The hello world :) |
 
-##Contact
+## Contact
 
-You can follow me on [Twitter](https://twitter.com/cartur28) and [CodePen](codepen.io/carlosarturo28/).
+You can follow me on [Twitter](https://twitter.com/cartur28) and [CodePen](https://codepen.io/carlosarturo28/).
 
 
