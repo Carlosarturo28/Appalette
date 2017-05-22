@@ -1,0 +1,26 @@
+{
+  "author": "Carlos Navarro",
+  "menu": {
+    "isRoot": false,
+    "shortcut": "",
+    "items": [
+      "appalette"
+    ],
+    "title": "🎨 Appalette"
+  },
+  "identifier": "com.carlosnavarro.sketch.appalette",
+  "version": "1.0.0",
+  "compatibleVersion": 3,
+  "description": "Find the color palette of (almost) any App.",
+  "authorEmail" : "carlosarturo28@gmail.com",
+  "name": "🎨 Appalette",
+  "commands": [
+    {
+      "name": "Find an awesome palette 🤘🏻",
+      "identifier": "appalette",
+      "handler": "onRun",
+      "shortcut": "ctrl cmd c",
+      "script": "script.cocoascript"
+    }
+  ]
+}
