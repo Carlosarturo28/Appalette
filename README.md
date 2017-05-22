@@ -22,7 +22,15 @@ You can quickly access the Appalette window by using the keyword shortcut <kbd>C
 
 | Version | Notes |
 | --- | --- |
-| **v1.0** |  The hello world :) |
+| **v 1.0** |  The hello world :) |
+
+## License
+Appalette is released under the MIT license.  
+See [LICENSE](https://github.com/carlosarturo28/appalette/blob/master/LICENSE/) for details.
+
+## Some App is missing?
+
+Just [tweet](https://twitter.com/intent/tweet?text=Hey%20@cartur28,%20Appalette%20is%20missing%20this%20app:) me and I'll add it 🤓! 
 
 ## Contact
 
