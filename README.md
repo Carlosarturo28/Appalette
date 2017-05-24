@@ -7,7 +7,9 @@ A Sketch plugin that lets you find the color palette of _(almost)_ any App.
 
 ## Install
 
-[<img src="http://bit.ly/RunnerBadgeBlue">](http://bit.ly/SketchRunnerWebsite)
+  <a href="http://bit.ly/SketchRunnerWebsite">
+      <img height="40" width="160" src="http://bit.ly/RunnerBadgeBlue">
+    </a>
     
 1. Download and open **[Appalette-master.zip](https://github.com/carlosarturo28/appalette/archive/master.zip)**.
 2. Double click on `Appalette.sketchplugin` to install.  
