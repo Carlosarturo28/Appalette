@@ -1,7 +1,7 @@
 <img src="https://github.com/Carlosarturo28/Appalette/blob/master/res/hero.png" width="100%">
 
 # Appalette
-A Sketch plugin that let you find the color palette of _(almost)_ any App.
+A Sketch plugin that lets you find the color palette of _(almost)_ any App.
 
 <img src="https://github.com/Carlosarturo28/Appalette/blob/master/res/action.gif" width="100%">
 
