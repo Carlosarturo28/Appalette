@@ -1,6 +1,8 @@
 <img src="https://github.com/Carlosarturo28/Appalette/blob/master/res/hero.png" width="100%">
 
 # Appalette
+[![Download from Sketchpacks.com](https://badges.sketchpacks.com/plugins/com.carlosnavarro.sketch.appalette/version.svg)](https://api.sketchpacks.com/v1/plugins/com.carlosnavarro.sketch.appalette/download) [![Compatible Sketch Version](https://badges.sketchpacks.com/plugins/com.carlosnavarro.sketch.appalette/compatibility.svg)](https://sketchpacks.com/Carlosarturo28/Appalette)
+
 A Sketch plugin that lets you find the color palette of _(almost)_ any App.
 
 <img src="https://github.com/Carlosarturo28/Appalette/blob/master/res/action.gif" width="100%">
