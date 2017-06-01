@@ -14,20 +14,8 @@
             </ul>
           ]]>
         </description>
-        <pubDate>Fri, 21 Myr 2017 09:00:00 +0000</pubDate>
-        <enclosure url="https://github.com/Carlosarturo28/Appalette/archive/1.0.zip" sparkle:version="1.0" type="application/octet-stream" />
-      </item>
-      <item>
-        <title>Version 1.1</title>
-        <description>
-          <![CDATA[
-            <ul>
-            <li>Ready to Sketch 45 (Auto-install enabled)</li>
-            </ul>
-          ]]>
-        </description>
-        <pubDate>Thurs, 01 Jun 2017 12:00:00 +0000</pubDate>
-        <enclosure url="https://github.com/carlosarturo28/appalette/archive/1.1.zip" sparkle:version="1.1" type="application/octet-stream" />
+        <pubDate>Thurs, 01 Jun 2017 12:30:00 +0000</pubDate>
+        <enclosure url="https://raw.githubusercontent.com/carlosarturo28/appalette/master/releases/Appalette.sketchpluginv1.1.zip" sparkle:version="1.0" type="application/octet-stream" />
       </item>
   </channel>
 </rss>
