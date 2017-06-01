@@ -9,7 +9,7 @@
     "title": "🎨 Appalette"
   },
   "identifier": "com.carlosnavarro.sketch.appalette",
-  "version": "1.0.0",
+  "version": "1.1",
   "compatibleVersion": 3,
   "appcast": "https://raw.githubusercontent.com/Carlosarturo28/Appalette/master/appcast.xml",
   "description": "Find the color palette of (almost) any App.",
