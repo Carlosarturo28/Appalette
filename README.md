@@ -1,4 +1,4 @@
-<img src="https://github.com/Carlosarturo28/Appalette/raw/master/res/Appalette.gif" width="100%">
+<img src="https://github.com/Carlosarturo28/Appalette/raw/master/res/Appalette.gif" width="50%">
 
 # Appalette
 [![Download from Sketchpacks.com](https://badges.sketchpacks.com/plugins/com.carlosnavarro.sketch.appalette/version.svg)](https://api.sketchpacks.com/v1/plugins/com.carlosnavarro.sketch.appalette/download) [![Compatible Sketch Version](https://badges.sketchpacks.com/plugins/com.carlosnavarro.sketch.appalette/compatibility.svg)](https://sketchpacks.com/Carlosarturo28/Appalette)
