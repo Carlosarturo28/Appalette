@@ -1,10 +1,12 @@
-var COLORS = ['Airbnb', 'Babycenter', 'Cappture', 'Deezer', 'Dropbox', 'Duolingo', 'eBay', 'Evernote', 'Facebook', 'Feedly', 'Firefox', 'Fitbit', 'Flipboard', 'Google', 'Hulu', 'IFTTT', 'Instagram', 'Khan Academy', 'Lifesum', 'LinkedIn', 'Lyft', 'Merlin', 'Netflix', 'PayPal', 'Periscope', 'QuizUp', 'Reddit', 'Shazam', 'Shopify', 'Skillshare', 'Skype', 'Slack', 'Snapchat', 'SoundCloud', 'Spotify', 'Stack Overflow', 'Steam', 'Strava', 'Telegram', 'TiVo', 'Treehouse', 'Trello', 'Tumblr', 'Twitch', 'Twitter', 'Uber', 'Unity', 'Vimeo', 'Vine', 'WeChat', 'WhatsApp', 'Wikipedia', 'WordPress', 'Yelp', 'YouTube', 'All brands']; 
+var COLORS = ['Airbnb', 'Amazon', 'Babycenter', 'Cappture', 'Deezer', 'Dropbox', 'Duolingo', 'eBay', 'Evernote', 'Facebook', 'Feedly', 'Firefox', 'Fitbit', 'Flipboard', 'Google', 'Hulu', 'IFTTT', 'Instagram', 'Khan Academy', 'Lifesum', 'LinkedIn', 'Lyft', 'Merlin', 'Netflix', 'PayPal', 'Periscope', 'QuizUp', 'Reddit', 'Shazam', 'Shopify', 'Skillshare', 'Skype', 'Slack', 'Snapchat', 'SoundCloud', 'Spotify', 'Stack Overflow', 'Steam', 'Strava', 'Telegram', 'TiVo', 'Treehouse', 'Trello', 'Tumblr', 'Twitch', 'Twitter', 'Uber', 'Unity', 'Vimeo', 'Vine', 'WeChat', 'WhatsApp', 'Wikipedia', 'WordPress', 'Yelp', 'YouTube', 'All brands']; 
 
 //var VALUES = ['50', '100', '200', '300', '400', '500', '600', '700', '800', '900', 'A100', 'A200', 'A400', 'A700', 'All Values'];
 
 var COLOR_SETS = [
   // Airbnb
   [['#FD5C63', 1], ['#008489', 1], ['#484848', 1], ['#EDEFED', 0], ['#FFFFFF', 0]],
+  // Amazon
+  [['#EC912D', 1], ['#1A1919', 1], ['#FFFFFFF', 0]],
   // Babycenter
   [['#26AEC2', 1], ['#82AA33', 1], ['#E89B38', 1], ['#F6F4E9', 0]],
   // Cappture
