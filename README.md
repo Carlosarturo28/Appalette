@@ -1,29 +1,10 @@
 <img src="https://github.com/Carlosarturo28/Appalette/raw/master/res/Appalette.gif" width="80%">
 
 # Appalette
-[![Download from Sketchpacks.com](https://badges.sketchpacks.com/plugins/com.carlosnavarro.sketch.appalette/version.svg)](https://api.sketchpacks.com/v1/plugins/com.carlosnavarro.sketch.appalette/download) [![Compatible Sketch Version](https://badges.sketchpacks.com/plugins/com.carlosnavarro.sketch.appalette/compatibility.svg)](https://sketchpacks.com/Carlosarturo28/Appalette)
 
-A Sketch plugin that lets you find the color palette of _(almost)_ any App.
+A Figma plugin that lets you find the color palette of _(almost)_ any App.
 
-<img src="https://github.com/Carlosarturo28/Appalette/blob/master/res/action.gif" width="100%">
-
-## Install
-
-  <a href="http://bit.ly/SketchRunnerWebsite">
-      <img height="40" width="160" src="http://bit.ly/RunnerBadgeBlue">
-    </a>
-    
-1. Download and open **[Appalette-master.zip](https://github.com/carlosarturo28/appalette/archive/master.zip)**.
-2. Double click on `Appalette.sketchplugin` to install.  
-
-## Usage
-
-Bring up the Appalette Window either from the *Plugin menu* or via *keyboard shortcut*. Once opened, just select the App you want and press `rock it ⚡️`. The plugin will create a group with the palette.
-
-## Shortcut
-
-You can quickly access the Appalette window by using the keyword shortcut <kbd>Ctrl</kbd> + <kbd>Cmd</kbd> + <kbd>C</kbd>.
-
+**Note**: The Sketch version is deprecated now and will or will not work.
 ## Changelog
 
 | Version | Notes |

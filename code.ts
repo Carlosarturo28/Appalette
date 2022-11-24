@@ -15,7 +15,6 @@ figma.ui.onmessage = msg => {
   // One way of distinguishing between different types of messages sent from
   // your HTML page is to use an object with a "type" property like this.
     const nodes: SceneNode[] = [];
-    console.log(msg.colors[0])
     for (let i = 0; i < msg.numberOfColors; i++) {
       const circle = figma.createEllipse();
       circle.resize(80, 80)
