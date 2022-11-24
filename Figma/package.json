@@ -1,0 +1,16 @@
+{
+  "name": "Appalette",
+  "version": "1.0.0",
+  "description": "A plugin that lets you find the color palette of (almost) any App",
+  "main": "code.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "watch": "npm run build -- --watch"
+  },
+  "author": "Carlos Navarro",
+  "license": "",
+  "devDependencies": {
+    "@figma/plugin-typings": "^1.55.1",
+    "typescript": "*"
+  }
+}
