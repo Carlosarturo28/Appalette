@@ -1,4 +1,4 @@
-export const data = [
+[
   {
     "name": "Instagram",
     "colors": ["#2D424E", "#AFAF4A", "#FBAE9A", "#000000", "#FFFFFF"],
