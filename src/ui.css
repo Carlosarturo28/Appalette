@@ -23,6 +23,22 @@
     font-family: 'Poppins', sans-serif;
   }
 
+  ::-webkit-scrollbar {
+    width: 6px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+    opacity: 1;
+  }
+
   ul {
     width: 90%;
     display: flex;
@@ -30,6 +46,17 @@
     padding: 0;
     align-items: center;
     flex-direction: column;
+  }
+
+  .tweet {
+    font-family: 'poppins', sans-serif;
+    font-size: 14px;
+    color:#7D7D7D;
+  }
+
+  a {
+    text-decoration: none;
+    color: #29B0D6;
   }
 
   li {

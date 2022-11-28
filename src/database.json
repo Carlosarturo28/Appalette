@@ -37,7 +37,7 @@
   {
     "name": "Netflix",
     "colors": ["#E50914", "#AC060F"],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Netflix_2015_N_logo.svg/320px-Netflix_2015_N_logo.svg.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/1280px-Netflix_2015_logo.svg.png"
   },
   {
     "name": "Slack",
@@ -75,14 +75,44 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg"
   },
   {
+    "name": "CamScanner",
+    "colors": ["#1A5A7D", "#F7F8FA", "#0FC5A4"],
+    "logo": "https://pbs.twimg.com/profile_images/441048726933471232/GwoWB-K7_400x400.png"
+  },
+  {
     "name": "Lyft",
     "colors": ["#FF00BF", "#11111F"],
     "logo": "https://cdn.usbrandcolors.com/images/logos/lyft-logo.svg"
   },
   {
+    "name": "Deliveroo",
+    "colors": ["#00CDBC", "#FFFFFF"],
+    "logo": "https://creativereview.imgix.net/content/uploads/2016/09/Deliveroo-Logo-Crop.png"
+  },
+  {
+    "name": "Foodora",
+    "colors": ["#D60265"],
+    "logo": "https://images.deliveryhero.io/image/fd-op/NV/400x400_pink_transparent.png"
+  },
+  {
+    "name": "AliExpress",
+    "colors": ["#F79917", "#E52F20"],
+    "logo": "https://cdn.icon-icons.com/icons2/2699/PNG/512/aliexpress_logo_icon_167892.png"
+  },
+  {
     "name": "Figma",
     "colors": ["#F14E1C", "#FF7362", "#A25AFF", "#18BDFE", "#0ACF84"],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
+    "logo": "https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png"
+  },
+  {
+    "name": "Discord",
+    "colors": ["#7289da", "#424549", "#36393e", "#282b30", "#1e2124"],
+    "logo": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png"
+  },
+  {
+    "name": "Snapseed",
+    "colors": ["#0B552B", "#0B8142", "#32AC71", "#B2FF59", "#AED580", "#8BC249"],
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/c/cd/Snapseed.svg"
   },
   {
     "name": "Stripe",
@@ -122,7 +152,7 @@
   {
     "name": "DeviantArt",
     "colors": ["#05cc47", "#4dc47d", "#181a1b"],
-    "logo": "https://cdn.worldvectorlogo.com/logos/deviantart-2.svg"
+    "logo": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/479ab6ca-88d0-4518-b430-7609318768f8/d8ix39x-0aafc1ff-a9ec-40dd-acff-2117220ffc02.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ3OWFiNmNhLTg4ZDAtNDUxOC1iNDMwLTc2MDkzMTg3NjhmOFwvZDhpeDM5eC0wYWFmYzFmZi1hOWVjLTQwZGQtYWNmZi0yMTE3MjIwZmZjMDIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vhfz6GMdw0PWJy2IjvmOR0L-NkKwIAGMZskcVDLUJ4A"
   },
   {
     "name": "DuckDuckGo",
@@ -142,7 +172,7 @@
   {
     "name": "Eventbrite",
     "colors": ["#ff8000", "#1E0A3C", "#F8F7FA"],
-    "logo": "https://www.pngmart.com/files/15/EBay-Logo-PNG-Picture.png"
+    "logo": "https://cdn.evbstatic.com/s3-build/perm_001/477279/django/images/favicons/favicon-194x194.png"
   },
   {
     "name": "Firefox",
@@ -186,13 +216,13 @@
   },
   {
     "name": "GoDaddy",
-    "colors": ["#7db701", "#ff8a00"],
+    "colors": ["#7db701", "#ff8a00", "##1AD4D4", "##00838C"],
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/GoDaddy_Logo_-_The_GO.svg/1200px-GoDaddy_Logo_-_The_GO.svg.png"
   },
   {
     "name": "Heroku",
     "colors": ["#c9c3e6", "#6762a6"],
-    "logo": "https://brandslogos.com/wp-content/uploads/images/large/heroku-logo.png"
+    "logo": "https://cdn.icon-icons.com/icons2/2108/PNG/512/heroku_icon_130912.png"
   },
   {
     "name": "Hootsuite",
@@ -225,7 +255,7 @@
     "logo": "https://seeklogo.com/images/K/khan-academy-logo-EFA43B86E0-seeklogo.com.png"
   },
   {
-    "name": "Khan Academy",
+    "name": "Kickstarter",
     "colors": ["#2bde73", "#0f2105"],
     "logo": "https://ksr-static.imgix.net/xr7jn0op-kickstarter-logo-k-green.png?ixlib=rb-2.1.0&s=c6655f6eaeaadc3f6544d877efb2b098"
   },
