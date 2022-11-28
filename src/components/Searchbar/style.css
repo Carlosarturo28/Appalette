@@ -1,0 +1,11 @@
+#header-search {
+  text-align: left;
+  width: 90%;
+  border-radius: 6px;
+  margin-top: 10px;
+  padding: 12px 14px;
+}
+
+#header-search::placeholder {
+  color: #bcbcbc;
+}

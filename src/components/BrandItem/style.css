@@ -1,0 +1,19 @@
+li {
+  border: 1px solid #bcbcbc;
+  border-radius: 6px;
+  width: 90%;
+  text-align: left;
+  padding: 8px;
+  display: flex;
+  align-items: center;
+  border: 1px solid var(--figma-color-border);
+  margin-bottom: 8px;
+}
+
+li > span {
+  margin-left: 10px;
+}
+
+li:hover {
+  border: 1px solid var(--figma-color-border-selected);
+}
