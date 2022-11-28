@@ -1,7 +1,7 @@
 [
   {
     "name": "Instagram",
-    "colors": ["#FFD600", "#FF7A00", "#FF0069", "#D300C5", "#7638FA"],
+    "colors": ["#ffdc80", "#FFD600", "#FF7A00", "#fd1d1d", "#FF0069", "#c13584", "#D300C5", "#7638FA"],
     "logo": "https://lookaside.fbsbx.com/elementpath/media/?media_id=676073767417807&version=1668818186"
   },
   {
@@ -16,12 +16,362 @@
   },
   {
     "name": "WhatsApp",
-    "colors": ["#128C7E", "#075E54", "#25D366", "#34B7F1"],
+    "colors": ["#128C7E", "#075E54", "#25D366", "#dcf8c6", "#34B7F1"],
     "logo": "https://cdn.usbrandcolors.com/images/logos/whatsapp-logo.svg"
   },
   {
     "name": "Airbnb",
     "colors": ["#FF5A5F", "#00A699", "#FC642D", "#484848", "#767676"],
     "logo": "https://cdn.usbrandcolors.com/images/logos/airbnb-logo.svg"
+  },
+  {
+    "name": "Amazon",
+    "colors": ["#FF9900", "#000000"],
+    "logo": "https://icons.iconarchive.com/icons/uiconstock/socialmedia/256/Amazon-icon.png"
+  },
+  {
+    "name": "Google",
+    "colors": ["#4285F4", "#DB4437", "#F4B400", "#0F9D58"],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/800px-Google_%22G%22_Logo.svg.png"
+  },
+  {
+    "name": "Netflix",
+    "colors": ["#E50914", "#AC060F"],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Netflix_2015_N_logo.svg/320px-Netflix_2015_N_logo.svg.png"
+  },
+  {
+    "name": "Slack",
+    "colors": ["#36C5F0", "#2EB67D", "#E01E5A", "#ECB22E"],
+    "logo": "https://cdn.usbrandcolors.com/images/logos/slack-logo.png"
+  },
+  {
+    "name": "Pinterest",
+    "colors": ["#E60023", "#FFFFFF"],
+    "logo": "https://cdn.usbrandcolors.com/images/logos/pinterest-logo.svg"
+  },
+  {
+    "name": "Snapchat",
+    "colors": ["#FFFC00", "#000000", "#FFFFFF"],
+    "logo": "https://cdn.usbrandcolors.com/images/logos/snapchat-logo.svg"
+  },
+  {
+    "name": "Spotify",
+    "colors": ["#1DB954", "#191414", "#FFFFFF"],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/230px-Spotify_logo_without_text.svg.png"
+  },
+  {
+    "name": "Twitter",
+    "colors": ["#1DA1F2", "#14171A", "#657786", "#AAB8C2", "#E1E8ED", "#F5F8FA"],
+    "logo": "https://cdn.usbrandcolors.com/images/logos/twitter-logo.svg"
+  },
+  {
+    "name": "Uber",
+    "colors": ["#09091a", "#161629", "#222233", "#1fbad6", "#c0c0c8"],
+    "logo": "https://cdn.usbrandcolors.com/images/logos/uber-logo.svg"
+  },
+  {
+    "name": "YouTube",
+    "colors": ["#FF0000", "#282828", "#FFFFFF"],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg"
+  },
+  {
+    "name": "Lyft",
+    "colors": ["#FF00BF", "#11111F"],
+    "logo": "https://cdn.usbrandcolors.com/images/logos/lyft-logo.svg"
+  },
+  {
+    "name": "Figma",
+    "colors": ["#F14E1C", "#FF7362", "#A25AFF", "#18BDFE", "#0ACF84"],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
+  },
+  {
+    "name": "Stripe",
+    "colors": ["#0A2540", "#5433FF", "#4379FF", "#1CC6FF", "#97FBD1", "#F6A4EC"],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg"
+  },
+  {
+    "name": "Reddit",
+    "colors": ["#0079D3", "#FF5700", "#FFFFFF"],
+    "logo": "https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png"
+  },
+  {
+    "name": "Dribbble",
+    "colors": ["#EA4C89", "#444444", "#FFFFFF", "#8aba56", "#00b6e3"],
+    "logo": "https://seeklogo.com/images/D/dribbble-logo-143FF96D65-seeklogo.com.png"
+  },
+  {
+    "name": "Canva",
+    "colors": ["#0E1318", "#7D2AE8", "#FFFFFF"],
+    "logo": "https://cdn-images-1.medium.com/max/1200/1*A6kkoOVJVpXPWewg8axc5w.png"
+  },
+  {
+    "name": "Booking",
+    "colors": ["#003580", "#009fe3", "#feba02", "#666666"],
+    "logo": "https://companieslogo.com/img/orig/BKNG-dc9c371c.png"
+  },
+  {
+    "name": "Auth0",
+    "colors": ["#16214d", "#44c7f4", "#eb5424", "#d0d2d3"],
+    "logo": "https://cdn.freebiesupply.com/logos/large/2x/auth0-logo-png-transparent.png"
+  },
+  {
+    "name": "Basecamp",
+    "colors": ["#b3dcff", "#5ecc62", "#00ad45", "#d0d2d3"],
+    "logo": "https://cdn.cdnlogo.com/logos/b/73/basecamp-2019.svg"
+  },
+  {
+    "name": "DeviantArt",
+    "colors": ["#05cc47", "#4dc47d", "#181a1b"],
+    "logo": "https://cdn.worldvectorlogo.com/logos/deviantart-2.svg"
+  },
+  {
+    "name": "DuckDuckGo",
+    "colors": ["#e37151", "#de5833", "#e5e5e5", "#5b9e4d", "#4495d4"],
+    "logo": "https://duckduckgo.com/assets/icons/meta/DDG-icon_256x256.png"
+  },
+  {
+    "name": "Duolingo",
+    "colors": ["#7ac70c", "#8ee000", "#faa918", "#ffc715", "#d33131", "#e53838", "#1cb0f6", "#14d4f4", "#8549ba", "#4c4c4c", "#6f6f6f"],
+    "logo": "https://design.duolingo.com/86230c9ad10d9f08b785.svg"
+  },
+  {
+    "name": "Ebay",
+    "colors": ["#e53238", "#0064d2", "#f5af02", "#86b817"],
+    "logo": "https://www.pngmart.com/files/15/EBay-Logo-PNG-Picture.png"
+  },
+  {
+    "name": "Eventbrite",
+    "colors": ["#ff8000", "#1E0A3C", "#F8F7FA"],
+    "logo": "https://www.pngmart.com/files/15/EBay-Logo-PNG-Picture.png"
+  },
+  {
+    "name": "Firefox",
+    "colors": ["#e66000", "#ff9500", "#ffcb00", "#00539f", "#0095dd", "#331e54"],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg"
+  },
+  {
+    "name": "Fitbit",
+    "colors": ["#4cc2c4", "#f54785", "#343434"],
+    "logo": "https://assets.stickpng.com/images/62a896d5da9e7313e0262a76.png"
+  },
+  {
+    "name": "Fiverr",
+    "colors": ["#00b22d", "#1dbf73", "#222222", "#FFFFFF"],
+    "logo": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/fiverr-icon.png"
+  },
+  {
+    "name": "Flickr",
+    "colors": ["#0063dc", "#ff0084"],
+    "logo": "https://www.flickrhelp.com/hc/article_attachments/4419907666708/unnamed.png"
+  },
+  {
+    "name": "Foursquare",
+    "colors": ["#f94877", "#0732a2", "#2d5be3"],
+    "logo": "https://www.iconpacks.net/icons/2/free-foursquare-logo-icon-2445-thumb.png"
+  },
+  {
+    "name": "FreeCodeCamp",
+    "colors": ["#006400", "#ff9c2a", "#ff4025", "#3949ab", "#efefef"],
+    "logo": "https://pbs.twimg.com/profile_images/1276770212927410176/qTgTIejk_400x400.jpg"
+  },
+  {
+    "name": "GitHub",
+    "colors": ["#4078c0", "#6cc644", "#bd2c00", "#c9510c", "#6e5494", "#fafafa", "#f5f5f5", "#333333"],
+    "logo": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "name": "GitLab",
+    "colors": ["#fca326", "#fc6d26", "#e24329", "#554488"],
+    "logo": "https://cdn.icon-icons.com/icons2/2415/PNG/512/gitlab_original_logo_icon_146503.png"
+  },
+  {
+    "name": "GoDaddy",
+    "colors": ["#7db701", "#ff8a00"],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/GoDaddy_Logo_-_The_GO.svg/1200px-GoDaddy_Logo_-_The_GO.svg.png"
+  },
+  {
+    "name": "Heroku",
+    "colors": ["#c9c3e6", "#6762a6"],
+    "logo": "https://brandslogos.com/wp-content/uploads/images/large/heroku-logo.png"
+  },
+  {
+    "name": "Hootsuite",
+    "colors": ["#003265", "#f7e8d5", "#ffbd0a", "#c6af92", "#71685f", "#54493f", "#38322d"],
+    "logo": "https://seeklogo.com/images/H/hootsuite-logo-4F17391B65-seeklogo.com.png"
+  },
+  {
+    "name": "Hulu",
+    "colors": ["#66aa33", "#99cc33", "#41811e", "#222222", "#666666", "#e8e8e8"],
+    "logo": "https://www.ethic-ads.com/wp-content/uploads/bb-plugin/cache/hulu-logo-square.jpg"
+  },
+  {
+    "name": "IFTTT",
+    "colors": ["#33ccff", "#ff4400", "#000000"],
+    "logo": "https://assets.stickpng.com/images/62a871b714a38cce0c371c19.png"
+  },
+  {
+    "name": "Ikea",
+    "colors": ["#ffcc00", "#003399"],
+    "logo": "https://static.dezeen.com/uploads/2019/04/ikea-logo-new-sq-1.jpg"
+  },
+  {
+    "name": "iStock",
+    "colors": ["#fe423f", "#02a388", "#0c0d0d", "#e8eded", "#dce1e1"],
+    "logo": "https://seeklogo.com/images/I/istockphoto-logo-EE5A2AB2C7-seeklogo.com.png"
+  },
+  {
+    "name": "Khan Academy",
+    "colors": ["#9cb443", "#242f3a"],
+    "logo": "https://seeklogo.com/images/K/khan-academy-logo-EFA43B86E0-seeklogo.com.png"
+  },
+  {
+    "name": "Khan Academy",
+    "colors": ["#2bde73", "#0f2105"],
+    "logo": "https://ksr-static.imgix.net/xr7jn0op-kickstarter-logo-k-green.png?ixlib=rb-2.1.0&s=c6655f6eaeaadc3f6544d877efb2b098"
+  },
+  {
+    "name": "LinkedIn",
+    "colors": ["#0077b5", "#000000", "#313335", "#86888a", "#caccce", "#00a0dc", "#8d6cab", "#dd5143", "#e68523"],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"
+  },
+  {
+    "name": "Mailchimp",
+    "colors": ["#239ab9", "#52bad5", "#6dc5dc", "#373737", "#5d5c5d", "#b7b7b7"],
+    "logo": "https://s3.amazonaws.com/www-inside-design/uploads/2018/10/mailchimp-sq.jpg"
+  },
+  {
+    "name": "Mercadolibre",
+    "colors": ["#ffe600", "#2d3277"],
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/MercadoLibre.svg/1200px-MercadoLibre.svg.png"
+  },
+  {
+    "name": "Microsoft",
+    "colors": ["#f65314", "#7cbb00", "#00a1f1", "#ffbb00"],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/2048px-Microsoft_logo.svg.png"
+  },
+  {
+    "name": "Nintendo",
+    "colors": ["#e60012", "#8c8c8c", "#ffffff"],
+    "logo": "https://www.pngkey.com/png/full/226-2267265_n64-icon-nintendo-64-logo-png.png"
+  },
+  {
+    "name": "Node.js",
+    "colors": ["#215732", "#6cc24a", "#44883e", "#333333"],
+    "logo": "https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"
+  },
+  {
+    "name": "Patreon",
+    "colors": ["#FF5800", "#f96854", "#052d49"],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Patreon_logo.svg/2048px-Patreon_logo.svg.png"
+  },
+  {
+    "name": "Paypal",
+    "colors": ["#003087", "#009cde", "#012169"],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Paypal_2014_logo.png"
+  },
+  {
+    "name": "Product Hunt",
+    "colors": ["#da552f", "#534540", "#988f8c", "#00b27f"],
+    "logo": "https://ph-static.imgix.net/ph-logo-p-only.png?auto=format&auto=compress"
+  },
+  {
+    "name": "Roku",
+    "colors": ["#6f1ab1"],
+    "logo": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/53e7569f-c439-4ff9-95ae-d1240f5c0152_700x394.png"
+  },
+  {
+    "name": "Ryanair",
+    "colors": ["#073590", "#f1c933", "#2091eb"],
+    "logo": "https://e7.pngegg.com/pngimages/502/989/png-clipart-flight-ryanair-bus-quick-click-fare-harp-blue-logo.png"
+  },
+  {
+    "name": "Shazam",
+    "colors": ["#0088ff", "#ffaa00", "#ff7700", "#ff0033", "#9911aa", "#cc2288", "#aadd22", "#242424", "#646464", "#949494", "#e4e4e4"],
+    "logo": "https://assets.stickpng.com/images/580b57fcd9996e24bc43c538.png"
+  },
+  {
+    "name": "Shopify",
+    "colors": ["#96bf48", "#479ccf", "#2d3538", "#f5f5f5", "#f2f7fa", "#666666"],
+    "logo": "https://cdn.shopify.com/assets/images/logos/shopify-bag.png"
+  },
+  {
+    "name": "SoundCloud",
+    "colors": ["#ff8800", "#ff3300"],
+    "logo": "https://1000logos.net/wp-content/uploads/2021/04/Soundcloud-logo.png"
+  },
+  {
+    "name": "Stack Overflow",
+    "colors": ["#f48024", "#222426", "#bcbbbb"],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"
+  },
+  {
+    "name": "Telegram",
+    "colors": ["#0088cc", "#FFFFFF"],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png"
+  },
+  {
+    "name": "Trello",
+    "colors": ["#0079bf", "#70b500", "#ff9f1a", "#eb5a46", "#f2d600", "#c377e0", "#ff78cb", "#00c2e0", "#51e898", "#c4c9cc"],
+    "logo": "https://assets.stickpng.com/images/58482beecef1014c0b5e4a36.png"
+  },
+  {
+    "name": "TripAdvisor",
+    "colors": ["#00af87"],
+    "logo": "https://www.edigitalagency.com.au/wp-content/uploads/tripadvisor-logo-icon-black-green-owl-square.jpg"
+  },
+  {
+    "name": "Tumblr",
+    "colors": ["#35465c"],
+    "logo": "https://seeklogo.com/images/T/tumblr-icon-logo-A03D0E7D3A-seeklogo.com.png"
+  },
+  {
+    "name": "Twitch",
+    "colors": ["#9146ff", "#000000", "#f0f0ff"],
+    "logo": "https://cdn.pixabay.com/photo/2021/12/10/16/38/twitch-6860918_960_720.png"
+  },
+  {
+    "name": "Unity",
+    "colors": ["#222c37", "#00cccc", "#fff600", "#ff0066", "#19e3b1", "#ff7f33", "#b83c82"],
+    "logo": "https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png"
+  },
+  {
+    "name": "Vimeo",
+    "colors": ["#162221", "#1ab7ea"],
+    "logo": "https://cdn.freebiesupply.com/logos/large/2x/vimeo-icon-blue-logo-png-transparent.png"
+  },
+  {
+    "name": "Walmart",
+    "colors": ["#007dc6", "#79b9e7", "#f47421", "#76c143", "#ffc120", "#e7f0f7"],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Walmart_Spark.svg/1925px-Walmart_Spark.svg.png"
+  },
+  {
+    "name": "Wikimedia",
+    "colors": ["#339966", "#0063bf", "#990000"],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/2048px-Wikimedia-logo.svg.png"
+  },
+  {
+    "name": "Wikipedia",
+    "colors": ["#000000", "#636466", "#939598", "#c7c8ca"],
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/1200px-Wikipedia-logo-v2.svg.png"
+  },
+  {
+    "name": "WooCommerce",
+    "colors": ["#96588a", "#3c3c3c", "#71b02f"],
+    "logo": "https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/woo-commerce-512.png"
+  },
+  {
+    "name": "WordPress",
+    "colors": ["#21759b", "#d54e21", "#464646"],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png"
+  },
+  {
+    "name": "Zendesk",
+    "colors": ["#00363d", "#f79a3e", "#eb6651", "#30aabc", "#eb4962", "#37b8af", "#78a300", "#f0ca28"],
+    "logo": "https://www.pngkey.com/png/full/484-4845652_zendesk-vector-png-new-zendesk-logo.png"
+  },
+  {
+    "name": "Zoom",
+    "colors": ["#2d8cff", "#f26d21"],
+    "logo": "https://blog.logomyway.com/wp-content/uploads/2021/08/zoom-icon.png"
   }
 ]
