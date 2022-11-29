@@ -54,6 +54,21 @@
     color:#7D7D7D;
   }
 
+  .alert {
+    position: sticky;
+    bottom: 8;
+    background-color: red;
+    opacity: 0.7;
+    border-radius: 6px;
+    margin: 0 20px;
+    padding: 0 10px;
+  }
+
+  .alert > p {
+    font-size: 12px;
+    color: white;
+  }
+
   a {
     text-decoration: none;
     color: #29B0D6;

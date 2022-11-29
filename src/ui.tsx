@@ -3,6 +3,7 @@ import * as ReactDOM from "react-dom";
 import "./ui.css";
 import { Searchbar } from "./components/Searchbar/index";
 import { BrandItem } from "./components/BrandItem/index";
+const localData = require("./database.json");
 
 declare function require(path: string): any;
 
@@ -30,6 +31,7 @@ const App = () => {
     });
   };
   const [searchQuery, setSearchQuery] = React.useState("");
+  const [noConnection, setNoConnection] = React.useState(false);
   const filteredBrand = filterBrand(data, searchQuery.toLowerCase());
 
   const fetchData = async () => {
@@ -47,6 +49,8 @@ const App = () => {
       })
       .catch((error) => {
         console.log(error);
+        setData(localData);
+        setNoConnection(true);
       });
   };
 
@@ -84,6 +88,11 @@ const App = () => {
           ))
         )}
       </ul>
+      {noConnection && (
+        <div className="alert">
+          <p>Looks like you're not connected, the database may be outdated.</p>
+        </div>
+      )}
     </div>
   );
 };
