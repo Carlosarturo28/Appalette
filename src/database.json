@@ -305,6 +305,11 @@
     "logo": "https://ph-static.imgix.net/ph-logo-p-only.png?auto=format&auto=compress"
   },
   {
+    "name": "Revolut",
+    "colors": ["#2685BF", "#29A7D9", "#3DE0F2", "#00b27f","#6DB720", "#EE7A40", "#F54C3E", "#805CF5"],
+    "logo": "https://thumbs.bfldr.com/at/q7nihp-5dfml4-c3ciwk?expiry=1679656557&fit=bounds&height=162&sig=NGVkNmMwZjk5MTM3ZDkzNGJmOTY0OWRkNDZhOTA1Y2JlMWY4NDFlZA%3D%3D&width=262"
+  },
+  {
     "name": "Roku",
     "colors": ["#6f1ab1"],
     "logo": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/53e7569f-c439-4ff9-95ae-d1240f5c0152_700x394.png"
